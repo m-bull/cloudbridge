@@ -15,6 +15,7 @@ Credentials are parsed in the following order:
 1. Authenticate
 2. List images containing the string "centos"
 3. List flavours and select one based on vCPU/RAM characteristics
+
 If _anything_ is provided as an argument:
 4. Launch a small instance 
 5. Check instance state and report external IP address

@@ -2,6 +2,8 @@ Some POC code to launch instance(s) on [MRC CLIMB](https://climb.ac.uk) using [C
 
 Currently tested and working on [Cardiff](https://cardiff.climb.ac.uk).
 
+*PLEASE USE SMALL INSTANCE FLAVOURS FOR TESTING*
+
 # Endpoints
 All internal services should resolve to https://cardiff.climb.ac.uk - edit your hostfile.
 
